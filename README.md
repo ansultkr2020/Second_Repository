@@ -4,3 +4,6 @@ Some Text
 
 ## Local Development
 1. Open index.html in your browser
+
+## Create conflicts 
+Not peace i mean
